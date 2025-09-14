@@ -9,6 +9,7 @@ Berikut ini adalah Koleksi yang dimliki:
 2. [Ikigai](ebook/Ikigai.pdf) - Akihiro Hasegawa (2020)
 3. [You can heal your Life](ebook/You can heal your Life.pdf) - Louise (2015)
 4. [No Longer Human](ebook/No Longer Human.pdf) - Dazai Osamu (2023)
+5. [Thinking](ebook/Thinking.pdf) - Daniel Kahneman (2017)
 
 ---
 
