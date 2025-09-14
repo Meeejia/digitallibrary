@@ -12,6 +12,7 @@ Berikut ini adalah Koleksi yang dimliki:
 5. [Thinking](ebook/Thinking.pdf) - Daniel Kahneman (2017)
 6. [How to talk to anyone](ebook/How to talk to anyone.pdf) - Leil Lowndes (2018)
 7. [Atomic Habits](ebook/Atomic Habits.pdf) - James Clear (2021)
+8. [Enoch](ebook/Enoch.pdf) - Jay Winter (2018)
 
 ---
 
