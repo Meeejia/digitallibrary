@@ -15,6 +15,7 @@ Berikut ini adalah Koleksi yang dimliki:
 8. [Enoch](ebook/Enoch.pdf) - Jay Winter (2018)
 9. [Rich Dad Poor Dad](ebook/Rich Dad Poor Dad.pdf) - Bongo Tweet (2023)
 10. [The Laws of Human Nature](ebook/The Laws of Human Nature.pdf) - Robert Greene (2018)
+11. [Resume VR](ebook/Latizia Mutiara_13040123140129_Kuliah Umum.pdf) - Latizia Mutiara (2025)
 
 ---
 
