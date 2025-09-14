@@ -10,6 +10,7 @@ Berikut ini adalah Koleksi yang dimliki:
 3. [You can heal your Life](ebook/You can heal your Life.pdf) - Louise (2015)
 4. [No Longer Human](ebook/No Longer Human.pdf) - Dazai Osamu (2023)
 5. [Thinking](ebook/Thinking.pdf) - Daniel Kahneman (2017)
+6. [How to talk to anyone](ebook/How to talk to anyone.pdf) - Leil Lowndes (2018)
 
 ---
 
