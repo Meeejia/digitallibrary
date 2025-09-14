@@ -13,6 +13,7 @@ Berikut ini adalah Koleksi yang dimliki:
 6. [How to talk to anyone](ebook/How to talk to anyone.pdf) - Leil Lowndes (2018)
 7. [Atomic Habits](ebook/Atomic Habits.pdf) - James Clear (2021)
 8. [Enoch](ebook/Enoch.pdf) - Jay Winter (2018)
+9. [Rich Dad Poor Dad](ebook/Rich Dad Poor Dad.pdf) - Bongo Tweet (2023)
 
 ---
 
