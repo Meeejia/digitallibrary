@@ -6,7 +6,8 @@ Berikut ini adalah Koleksi yang dimliki:
 ## Koleksi
 
 1. [Tri Forma Uni Essencia](ebook/Tri Forma Uni Essencia wm.pdf) - digiterra (2025)
-2. Contoh buku lain
+2. [Ikigai](ebook/Ikigai.pdf) - Akihiro Hasegawa (2020)
+3. Contoh buku lain
 
 ---
 
