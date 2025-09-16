@@ -18,5 +18,5 @@ Berikut ini adalah Koleksi yang dimliki:
 11. [Resume VR](ebook/Latizia Mutiara_13040123140129_Kuliah Umum.pdf) - Latizia Mutiara (2025)
 
 ---
-
+[Halaman 1](webti/halaman1.html)
 *Powered by Github Pages*
