@@ -3,7 +3,7 @@
 Selamat Datang di Perpustakaan Digital
 
 Berikut ini adalah Koleksi yang dimliki:
-## Koleksi
+## 📚Koleksi
 
 1. [Tri Forma Uni Essencia](ebook/Tri Forma Uni Essencia wm.pdf) - digiterra (2025)
 2. [Ikigai](ebook/Ikigai.pdf) - Akihiro Hasegawa (2020)
